@@ -18,9 +18,11 @@ You can also replace the brackets installation inside this portable version with
 
 The portable launcher uses the [portableapps.com](http://portableapps.com/) installer which also allows you to better integrate with your [portableapps.com](http://portableapps.com/) installation (this is of course optional).
 
+This repository is a fork from https://github.com/sagiegurari/brackets-portable.
+
 ## Download
 
-In order to download please look at the releases tab at: https://github.com/sagiegurari/brackets-portable/releases/latest and download the exe file.
+In order to download please look at the releases tab at: https://github.com/mycrux/brackets-portable/releases/latest and download the exe file.
 
 ## License
 
